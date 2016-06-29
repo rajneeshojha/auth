@@ -1,0 +1,29 @@
+{
+    "name": "scriptburn/auth",
+    "description": "Provides login support",
+    "keywords": ["admin panel login"],
+    "license": "MIT",
+    "repo": "scriptburn",
+    "type": "core",
+    "authors": [
+    {
+        "name": "Rajneesh Ojha",
+        "email": "support@scriptburn.com"
+    }],
+    "require_info":
+    {
+        "scriptburn/db": "scriptburn",
+        "scriptburn/hash": "scriptburn"
+    },
+    "require":
+    {
+        "scriptburn/db": "",
+        "alexgarrett/violin": "2.*",
+        "scriptburn/hash": "",
+        "guzzle/guzzlehttp": "*"
+    },
+    "autoload":
+    {
+        "files": ["autoload.php"]
+    }
+}
