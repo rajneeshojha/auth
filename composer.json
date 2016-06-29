@@ -17,11 +17,12 @@
     },
     "require":
     {
-        
+
         "scriptburn/db": "*",
         "alexgarrett/violin": "2.*",
         "scriptburn/hash": "*",
-        "guzzlehttp/guzzle": "*"
+        "guzzlehttp/guzzle": "*",
+        "laravel/framework" :"*"
     },
     "autoload":
     {
