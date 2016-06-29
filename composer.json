@@ -17,6 +17,7 @@
     },
     "require":
     {
+        
         "scriptburn/db": "*",
         "alexgarrett/violin": "2.*",
         "scriptburn/hash": "*",
