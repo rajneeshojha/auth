@@ -17,9 +17,9 @@
     },
     "require":
     {
-        "scriptburn/db": "",
+        "scriptburn/db": "*",
         "alexgarrett/violin": "2.*",
-        "scriptburn/hash": "",
+        "scriptburn/hash": "*",
         "guzzle/guzzlehttp": "*"
     },
     "autoload":
