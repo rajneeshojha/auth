@@ -21,7 +21,7 @@
         "scriptburn/db": "*",
         "alexgarrett/violin": "2.*",
         "scriptburn/hash": "*",
-        "guzzle/guzzlehttp": "*"
+        "guzzlehttp/guzzle": "*"
     },
     "autoload":
     {
